@@ -31,6 +31,7 @@ pip install virtualenv virtualenvwrapper
 
 # Verify installation
 virtualenv --version
+virtualenvwrapper --version
 ```
 
 ## 🔑 Essential Commands
