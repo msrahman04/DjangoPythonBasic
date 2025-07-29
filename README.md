@@ -90,7 +90,7 @@ pip install --upgrade pip
 pip install django
 
 # Verify installation
-python -m django --version
+python3 -m django --version
 ```
 
 ### Creating a Django Project
