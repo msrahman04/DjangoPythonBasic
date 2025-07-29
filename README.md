@@ -103,11 +103,20 @@ django-admin startproject headphoneadmin
 cd headphoneadmin
 ```
 
+### Open project in VS Code and Open terminal
+
+```bash
+# Open this project in VS Code
+code .
+
+# Now open terminal and selecr zsh not bash to use virtualenv and rirtual wrapper
+```
+
 ### Creating a Django App
 
 ```bash
 # Create a new app
-python manage.py startapp products
+python3 manage.py startapp products
 ```
 
 ### Configure Settings
